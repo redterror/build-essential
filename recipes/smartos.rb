@@ -21,7 +21,7 @@ include_recipe 'pkgin'
 
 %w{
   gcc47
-  gcc47-runtime
+  gcc47-libs
   scmgit-base
   gmake
   pkg-config
